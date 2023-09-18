@@ -1,0 +1,22 @@
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+table,
+tr,
+td {
+    border: solid 1px black;
+}
+
+td {
+    text-align: center;
+    width: 4rem;
+    padding: 1rem 1.5rem;
+}
+
+.sections {
+    display: flex;
+    column-gap: 5rem;
+}
